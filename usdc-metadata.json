@@ -1,0 +1,6 @@
+{
+  "name": "USDC",
+  "symbol": "USDC",
+  "description": "Dummy USDC (not real)",
+  "image": "https://raw.githubusercontent.com/raghav-rama/metaplex-token-metadata/main/usdc.png"
+}
