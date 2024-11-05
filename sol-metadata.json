@@ -1,0 +1,6 @@
+{
+  "name": "Solana",
+  "symbol": "SOL",
+  "description": "Devnet Dummy SOL Token (not real)",
+  "image": "https://raw.githubusercontent.com/raghav-rama/metaplex-token-metadata/main/sol.png"
+}
